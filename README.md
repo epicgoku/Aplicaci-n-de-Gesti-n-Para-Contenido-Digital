@@ -8,4 +8,6 @@ Lista Inicial de Módulos del Sistema
 	1.	Gestión de Colecciones - Permite a los usuarios organizar sus favoritos por categorías y etiquetas personalizadas.
 	2.	Sincronización con Plataformas - Integración con APIs de servicios de manga, libros y videos para actualizar automáticamente las colecciones.
 	3.	Recomendaciones Personalizadas - Algoritmo que analiza los gustos del usuario y sugiere nuevo contenido relevante.
+ 4.sirve para pasar la materia
+ 
 
