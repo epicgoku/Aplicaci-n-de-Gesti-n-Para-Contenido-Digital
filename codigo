@@ -82,7 +82,7 @@ if _name_ == '_main_':
 El archivo habitos.db se creará automáticamente dentro de la carpeta database/ al ejecutar el backend. Asegúrate de que esa carpeta exista.
 ---
 
-Semana 2 (8 - 14 de abril): Formulario de Ingreso de Datos
+
 
 1. Crear Proyecto React en la Carpeta /client
 
